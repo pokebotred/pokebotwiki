@@ -12,4 +12,32 @@ https://www.facebook.com/pokebotred/
 
 ## Features of Pokébot Red
 
-Coming Soon
+* Facebook User Integration (You use your Facebook user to mainly play with.)
+* Discord User Integration (You can authenticate your Facebook user with our Discord bot to use Discord for additional features.)
+* Pokémons from gen 1, gen 2 and gen 3
+* Shiny pokémons (All pokémons have a shiny form included.)
+* All types (Including Fairy)
+* Moves from Gen 1
+* Catch pokémons
+* Battle pokémons
+* Battle trainers
+* Battle players
+* Ash / Gary as trainers you can battle
+* Battle gym leaders / retrieve badges
+* Gym leaders from gen 1, gen 2 and gen 3
+* TMs (Teach your pokémon moves)
+* Eggs (Including hatching)
+* 6 pokémons per user team
+* 4 teams per user
+* Items during battle such as potions, boosters (X Attack etc.) and more
+* Items such as vitamins (Iron, Carbos, Calcium etc.)
+* Evolutions (Including stones)
+* Pokémon Leveling
+* Favorite moves
+* Contests
+* Trading / Gifting (With other players) - Allows you to trade/gift items,pokémons and/or money.
+* Daily Top 10 Ranks (Top 1 player gets a Master Ball and/or 1200p)
+* Money (Called p)
+* Personal Pokédexes
+* Referal System
+* And more ...
