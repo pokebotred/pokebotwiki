@@ -25,6 +25,8 @@ https://www.facebook.com/pokebotred/
 * Ash / Gary as trainers you can battle
 * Battle gym leaders / retrieve badges
 * Gym leaders from gen 1, gen 2 and gen 3
+* Poké Marts / Poké Malls
+* Sell items / pokémons
 * TMs (Teach your pokémon moves)
 * Eggs (Including hatching)
 * 6 pokémons per user team
