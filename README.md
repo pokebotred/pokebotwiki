@@ -14,6 +14,7 @@ https://www.facebook.com/pokebotred/
 
 * Facebook User Integration (You use your Facebook user to mainly play with.)
 * Discord User Integration (You can authenticate your Facebook user with our Discord bot to use Discord for additional features.)
+* Graphics
 * Pokémons from gen 1, gen 2 and gen 3
 * Shiny pokémons (All pokémons have a shiny form included.)
 * All types (Including Fairy)
