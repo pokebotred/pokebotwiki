@@ -18,6 +18,8 @@ https://www.facebook.com/pokebotred/
 * Pokémons from gen 1, gen 2 and gen 3
 * Shiny pokémons (All pokémons have a shiny form included.)
 * All types (Including Fairy)
+* Friendship Points for Pokémons
+* Moods (Depending on friendship points)
 * Moves from Gen 1
 * Catch pokémons
 * Battle pokémons
