@@ -21,6 +21,8 @@ https://www.facebook.com/pokebotred/
 * Friendship Points for Pokémons
 * Moods (Depending on friendship points)
 * Moves from Gen 1
+* Moves from Gen 2
+* Moves from Gen 3
 * Catch pokémons
 * Battle pokémons
 * Battle trainers
@@ -45,4 +47,6 @@ https://www.facebook.com/pokebotred/
 * Money (Called p)
 * Personal Pokédexes
 * Referal System
+* Player Avatars (Allows for your user to have a personalized avatar.)
+* Pokémon Skins (Such as Cute Pikachu, Cool Squirtle etc.)
 * And more ...
